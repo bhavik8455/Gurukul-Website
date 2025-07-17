@@ -49,14 +49,14 @@ Run the project
 
   http://localhost/Gurukul-Website/
   
-##🙌 Author
-##👤 Bhavik Solanki
-##🔗 GitHub: https://github.com/bhavik8455
+🙌 Author
+👤 Bhavik Solanki
+🔗 GitHub: https://github.com/bhavik8455
 
-##📄 License
+📄 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or educational purposes.
 
-##🔮 Future Enhancements
+🔮 Future Enhancements
    Student/Parent login system
    
    Admin dashboard for dynamic content management
