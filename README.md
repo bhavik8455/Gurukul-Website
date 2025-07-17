@@ -26,20 +26,6 @@ The platform provides a clean and responsive interface for students, parents, an
 
 ---
 
-## 📁 Project Structure
-
-Gurukul-Website/
-├── css/ # Custom stylesheets
-├── img/ # Website images
-├── js/ # JavaScript and interaction logic
-├── admin/ # Admin panel (if enabled)
-├── forms/ # Form handling PHP files
-├── includes/ # Reusable components (header, footer, etc.)
-├── index.html # Main homepage
-└── ... # Other HTML pages (about, contact, courses, etc.)
-
----
-
 ## 🚀 Getting Started
 
 To run this project on your local system:
@@ -63,27 +49,27 @@ Run the project
 
   http://localhost/Gurukul-Website/
   
-🙌 Author
-👤 Bhavik Solanki
-🔗 GitHub: https://github.com/bhavik8455
+##🙌 Author
+##👤 Bhavik Solanki
+##🔗 GitHub: https://github.com/bhavik8455
 
-📄 License
+##📄 License
 This project is licensed under the MIT License. You are free to use, modify, and distribute it for personal or educational purposes.
 
-🔮 Future Enhancements
-Student/Parent login system
+##🔮 Future Enhancements
+   Student/Parent login system
+   
+   Admin dashboard for dynamic content management
+   
+   Image gallery or achievements page
+   
+   Online fee payment module
+   
+   Feedback or chatbot integration
 
-Admin dashboard for dynamic content management
-
-Image gallery or achievements page
-
-Online fee payment module
-
-Feedback or chatbot integration
-
-📬 Contact
+#📬 Contact
 For any queries, suggestions, or collaborations:
 
-📧 Email: [solankibhavik92@gmail.com]
-🌐 GitHub: @bhavik8455
+#📧 Email: [solankibhavik92@gmail.com]
+#🌐 GitHub: @bhavik8455
 
